@@ -4,7 +4,7 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 		"name": "Manila - Quiapo",
 		"videoId": "M1oLWD-OZH8",
 		"radio": {
-			"url": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3",
+			"url": "http://ph-icecast.eradioportal.com:8000/energyfm_manila",
 			"name": "106.7 Energy FM"
 		},
 		"startTime": 120
